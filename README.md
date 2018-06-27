@@ -4,4 +4,4 @@ git commands:
 - git merge
 - git pull
 
-test message : Hi my name is _____
+test message : Hi my name is Luke Skywalker
